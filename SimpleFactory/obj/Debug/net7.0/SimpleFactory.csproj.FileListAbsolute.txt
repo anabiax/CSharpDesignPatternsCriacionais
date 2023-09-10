@@ -1,0 +1,15 @@
+/home/anasantos/DesignPattern1/SimpleFactory/bin/Debug/net7.0/SimpleFactory
+/home/anasantos/DesignPattern1/SimpleFactory/bin/Debug/net7.0/SimpleFactory.deps.json
+/home/anasantos/DesignPattern1/SimpleFactory/bin/Debug/net7.0/SimpleFactory.runtimeconfig.json
+/home/anasantos/DesignPattern1/SimpleFactory/bin/Debug/net7.0/SimpleFactory.dll
+/home/anasantos/DesignPattern1/SimpleFactory/bin/Debug/net7.0/SimpleFactory.pdb
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.csproj.AssemblyReference.cache
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.AssemblyInfoInputs.cache
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.AssemblyInfo.cs
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.csproj.CoreCompileInputs.cache
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.dll
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/refint/SimpleFactory.dll
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.pdb
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/SimpleFactory.genruntimeconfig.cache
+/home/anasantos/DesignPattern1/SimpleFactory/obj/Debug/net7.0/ref/SimpleFactory.dll

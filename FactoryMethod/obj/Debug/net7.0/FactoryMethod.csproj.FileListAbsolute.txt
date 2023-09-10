@@ -1,0 +1,15 @@
+/home/anasantos/DesignPattern1/FactoryMethod/bin/Debug/net7.0/FactoryMethod
+/home/anasantos/DesignPattern1/FactoryMethod/bin/Debug/net7.0/FactoryMethod.deps.json
+/home/anasantos/DesignPattern1/FactoryMethod/bin/Debug/net7.0/FactoryMethod.runtimeconfig.json
+/home/anasantos/DesignPattern1/FactoryMethod/bin/Debug/net7.0/FactoryMethod.dll
+/home/anasantos/DesignPattern1/FactoryMethod/bin/Debug/net7.0/FactoryMethod.pdb
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.csproj.AssemblyReference.cache
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.AssemblyInfo.cs
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.dll
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/refint/FactoryMethod.dll
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.pdb
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/FactoryMethod.genruntimeconfig.cache
+/home/anasantos/DesignPattern1/FactoryMethod/obj/Debug/net7.0/ref/FactoryMethod.dll

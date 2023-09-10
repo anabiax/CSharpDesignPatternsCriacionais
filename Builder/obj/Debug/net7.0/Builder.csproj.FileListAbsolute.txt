@@ -1,0 +1,15 @@
+/home/anasantos/DesignPattern1/Builder/bin/Debug/net7.0/Builder
+/home/anasantos/DesignPattern1/Builder/bin/Debug/net7.0/Builder.deps.json
+/home/anasantos/DesignPattern1/Builder/bin/Debug/net7.0/Builder.runtimeconfig.json
+/home/anasantos/DesignPattern1/Builder/bin/Debug/net7.0/Builder.dll
+/home/anasantos/DesignPattern1/Builder/bin/Debug/net7.0/Builder.pdb
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.csproj.AssemblyReference.cache
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.AssemblyInfoInputs.cache
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.AssemblyInfo.cs
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.csproj.CoreCompileInputs.cache
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.dll
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/refint/Builder.dll
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.pdb
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/Builder.genruntimeconfig.cache
+/home/anasantos/DesignPattern1/Builder/obj/Debug/net7.0/ref/Builder.dll
